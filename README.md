@@ -15,6 +15,8 @@ var epicGamer2469:Array<Dynamic> = [
 
 <hr>
   <p align="center">
+    <a href="https://twitter.com/epic2469" ><img src="https://img.shields.io/twitter/follow/epic2469.svg?style=social" /> </a>
+    </br>
     <a href="https://visitor-badge.glitch.me/">
       <img align="center" src="https://page-views.glitch.me/badge?page_id=epicgamer2469.epicgamer2469">
     </a>
