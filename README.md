@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="Left">Hey, I'm Epic</h1>
 
-<!--
-**Epicgamer2469/Epicgamer2469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```hx
+var desc:String = "I'm currently interested in the HaxeFlixel game engine, and coding FNF mods."
 
-Here are some ideas to get you started:
+var epicGamer2469:Array<Dynamic> = [
+['pronouns', 'he', 'him'],
+['code', 'haxe', 'C#', 'Python'],
+['fav games', 'celeste', 'half life series', 'portal 1/2', 'ace attorney', 'FNF'],
+]
+```
+:trollface: Usually just spend my time doin a little trollin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Epic's GitHub stats](https://github-readme-stats.vercel.app/api?username=epicgamer2469&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+  <p align="center">
+    <a href="https://visitor-badge.glitch.me/">
+      <img align="center" src="https://page-views.glitch.me/badge?page_id=epicgamer2469.epicgamer2469">
+    </a>
+  </p>
