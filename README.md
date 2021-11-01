@@ -9,10 +9,16 @@ var epicGamer2469:Array<Dynamic> = [
 ['fav games', 'celeste', 'half life series', 'portal 1/2', 'ace attorney', 'FNF']
 ];
 ```
+<p align="center">
 :trollface: Usually just spend my time doin a little trollin
-
-[![Epic's GitHub stats](https://github-readme-stats.vercel.app/api?username=epicgamer2469&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
+</br>
+<b>i apoligize for any strokes had from reading my code</b>
+</br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=epicgamer2469&show_icons=true&theme=prussian" />
+  </a>
+</p>
+  
 <hr>
   <p align="center">
     <a href="https://twitter.com/epic2469" ><img src="https://img.shields.io/twitter/follow/epic2469.svg?style=social" /> </a>
