@@ -5,7 +5,7 @@ var desc:String = "I'm currently interested in the HaxeFlixel game engine, and c
 
 var epicGamer2469:Array<Dynamic> = [
 ['pronouns', 'he', 'him'],
-['code', 'haxe', 'C#', 'Python'],
+['code', 'mostly haxe', 'some C#', 'some Python'],
 ['fav games', 'celeste', 'half life series', 'portal 1/2', 'ace attorney', 'FNF']
 ];
 ```
