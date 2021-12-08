@@ -1,15 +1,6 @@
-<h1 align="Left">Hey, I'm Epic</h1>
-
-```hx
-var desc:String = "I'm currently interested in the HaxeFlixel game engine, and coding FNF mods.";
-
-var epicGamer2469:Array<Dynamic> = [
-['code', 'mostly haxe', 'some C#', 'some Python'],
-['fav games', 'celeste', 'half life series', 'portal 1/2', 'ace attorney', 'FNF']
-];
-```
+<h1 align="left">Hey, I'm Epic</h1>
 <p align="center">
-:trollface: Usually just spend my time doin a little trollin
+:trollface: haxeflixel is cool
 </br>
 <b>i apoligize for any strokes had from reading my code</b>
 </br>
