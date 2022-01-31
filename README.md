@@ -1,12 +1,6 @@
-<h1 align="center">Hey, I'm Epic</h1>
-<h3 align="center">I'm a programmer and I currently make games in HaxeFlixel</h3>
+<h2>Hey, I'm Epic</h2>
+<h3>I'm a gamedev making games</h3>
 
-- 
-
-- 💬 Ask me about **4**
-
-- 📫 How to reach me **4**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h4>Stuff about me</h4>
+- ⚙️ Usually code in Haxe, learning WebDev and C#
+- ✉ Ways to contact me: https://epicgamer2469.github.io/#socials
